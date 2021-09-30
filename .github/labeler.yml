@@ -1,0 +1,6 @@
+Roman:
+  - docs/*roman*
+  - docs/roman_figures/*
+  - notebooks/*roman*
+  - webbpsf/*roman*
+  - webbpsf/*/*roman*
